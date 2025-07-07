@@ -3,8 +3,6 @@ import Main from "./Main";
 import Home from "./page/home";
 import About from "./page/about";
 import Sample from "./page/sample";
-import Header from "./Header";
-import Footer from "./Footer";
 
 function App() {
   return (
